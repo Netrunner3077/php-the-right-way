@@ -15,7 +15,7 @@ outputNumbersViaFor(number: 10);
 echo '<br>';
 
 function outputNumbersViaWhile(int $number): void {
-    $i = 1;
+    $i = 0;
 
     while ($i < $number) {
         $i++;

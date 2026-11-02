@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-require_once(__DIR__ . 'if-version.php');
-require_once(__DIR__ . 'switch-version.php');
-require_once(__DIR__ . 'match-version.php');
+require_once(__DIR__ . '/if-version.php');
+require_once(__DIR__ . '/switch-version.php');
+require_once(__DIR__ . '/match-version.php');
 
 // Светофор (реши через if, switch и match то есть должно быть 3 варианта решения):
 
